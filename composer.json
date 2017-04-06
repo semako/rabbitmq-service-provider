@@ -1,5 +1,5 @@
 {
-    "name": "fiunchinho/rabbitmq-service-provider",
+    "name": "semako/rabbitmq-service-provider",
     "description": "Silex service provider for RabbitMQ",
     "keywords": [ "amqp", "RabbitMQ", "silex" ],
     "homepage": "http://github.com/fiunchinho/rabbitmq-service-provider",
